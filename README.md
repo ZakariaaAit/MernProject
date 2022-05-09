@@ -1,2 +1,3 @@
 # Mern Project
-## seting up mongodb
+## setting up mongodb
+### setting up github 
